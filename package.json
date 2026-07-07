@@ -1,0 +1,19 @@
+{
+  "name": "30-dias-js-intensive",
+  "version": "1.0.0",
+  "description": "Intensive JavaScript Reset - 1 week mastery before Three.js portfolio",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "learning",
+    "intensive",
+    "foundation"
+  ],
+  "author": "Diego Pérez <dipzon03@gmail.com>",
+  "license": "MIT"
+}
